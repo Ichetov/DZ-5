@@ -5,6 +5,10 @@
     font-size: 14px;
 }
 
+.button:last-child{
+    margin-left: 24px;
+}
+
 .disabled {
     opacity: 50%;
     background-color: #004D99;
