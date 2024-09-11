@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DZ-5/static/css/main.75cf6347.css",
-    "main.js": "/DZ-5/static/js/main.46f60eaf.js",
+    "main.js": "/DZ-5/static/js/main.054574ea.js",
     "static/js/111.d7457062.chunk.js": "/DZ-5/static/js/111.d7457062.chunk.js",
     "static/media/avatar.png": "/DZ-5/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/DZ-5/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -18,11 +18,11 @@
     "static/media/Polygon 1.svg": "/DZ-5/static/media/Polygon 1.464edfecf00ce1461dfe6d8288f1b88f.svg",
     "static/media/Polygon 3.svg": "/DZ-5/static/media/Polygon 3.3f53e1ada336d4a2b89dabfb878c65f9.svg",
     "main.75cf6347.css.map": "/DZ-5/static/css/main.75cf6347.css.map",
-    "main.46f60eaf.js.map": "/DZ-5/static/js/main.46f60eaf.js.map",
+    "main.054574ea.js.map": "/DZ-5/static/js/main.054574ea.js.map",
     "111.d7457062.chunk.js.map": "/DZ-5/static/js/111.d7457062.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75cf6347.css",
-    "static/js/main.46f60eaf.js"
+    "static/js/main.054574ea.js"
   ]
 }
